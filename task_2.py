@@ -22,7 +22,3 @@ while num > 0:
 
 # вывод наибольшего числа
 print(max_digit)
-
-
-
-
